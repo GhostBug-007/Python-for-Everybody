@@ -1,3 +1,5 @@
+#Web scraper to find the term frequency and the inverse document frequency for words
+
 import urllib.request, urllib.parse, urllib.error
 import ssl, re
 from bs4 import BeautifulSoup
